@@ -17,7 +17,6 @@
 
 ## 📚 What did I learn?
 Since it is my first React project, I learned about lots of things, but the most important ones for me was:
-- Components
-- Properties
-- States
-- Closures
+- Components: reusable pieces of code that can be joined to create complex user interfaces;
+- Properties: used to pass data between components;
+- States: makes it possible to update a component's data and re-render the component when the data changes.
